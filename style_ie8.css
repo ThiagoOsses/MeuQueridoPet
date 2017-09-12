@@ -1,0 +1,11 @@
+/*header------------*/
+.collapse {overflow: inherit;}
+.accordion .collapse{overflow:hidden;}
+
+div.container{
+	width: 1170px !important;
+}
+.comment-author img{
+	width: 32px;
+	height: 32px;
+}

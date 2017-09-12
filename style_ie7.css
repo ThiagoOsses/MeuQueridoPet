@@ -1,0 +1,12 @@
+/*pricing_table-------------------------------------------------------------------------------------------*/
+.phc-pricing-table > li {min-width:29.5% !important;float:left;}
+.phc-pricing-table > li.feature {top:-30px !important;}
+/*contact-us-----------------------------------------------------------------------------------------------*/
+div.wpcf7 p span {display:block !important;}
+div.wpcf7 p input[type='submit'] {float:left;margin-top:-20px !important;}
+div.soc_icons_box ul.soc_icons li {margin-left:0px !important;}
+.content_section .counter_holder {line-height:64px !important;}
+/*soc_icons------------------------------------------------------------------------------------------------*/
+div#soc_links ul {display:inline !important;}
+div.color_span {width:75px !important;margin:0 auto !important;float:none !important;}
+div.color_span a {float:left;}
